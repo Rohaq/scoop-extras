@@ -1,12 +1,12 @@
 {
-    "version": "0.4.0",
+    "version": "0.3.1",
     "description": "Git visualization tool that's more than just git.",
     "homepage": "https://github.com/Yamazaki93/MetroGit",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Yamazaki93/MetroGit/releases/download/v0.4.0/metrogit-setup-0.4.0.exe#/dl.7z",
-            "hash": "sha512:f9e205d7f0951b4874a90e7305951ebc39b49492647ef59719844d732818ad9b03def8404b5269fac69871ec67c960ce4ee91f841bcc457fa2fa9a04740de902",
+            "url": "https://github.com/Yamazaki93/MetroGit/releases/download/v0.3.1/metrogit-setup-0.3.1.exe#/dl.7z",
+            "hash": "sha512:63313440c1f714727e3594158a8203d29bce525e9ed988fe21f50d8d006200d8ca2b61bb75101e2ec3aef915119bda840192b560d356d002ca7a14487f60df0e",
             "installer": {
                 "script": [
                     "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
