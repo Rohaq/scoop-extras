@@ -1,13 +1,13 @@
 {
-    "version": "3.9.0.28",
+    "version": "3.9.6.33",
     "description": "Free messaging and calling app by Tencent",
     "homepage": "https://pc.weixin.qq.com/",
     "license": {
         "identifier": "Proprietary",
         "url": "https://www.wechat.com/en/service_terms.html"
     },
-    "url": "https://webcdn.m.qq.com/spcmgr/download/WeChatSetup_3.9.0.28.exe#/dl.7z",
-    "hash": "f1d1139498d0e76c5356e1f6542ab9a2cc468f11fb4a88ffc1e826baef02cafc",
+    "url": "https://webcdn.m.qq.com/spcmgr/download/WeChatSetup_3.9.6.33.exe#/dl.7z",
+    "hash": "38148311ea13440b64bd68647f7a06721f1af7f0c6fff9f3e07516162252c18c",
     "installer": {
         "script": [
             "Remove-Item \"$dir\\`$PLUGINSDIR\", \"$dir\\`$_15_\", \"$dir\\`$R5\" -Force -Recurse",
