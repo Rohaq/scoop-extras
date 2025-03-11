@@ -1,16 +1,16 @@
 {
-    "version": "3.5.9.0",
+    "version": "3.6.0.8",
     "description": "An All-In-One video converter and audio converter tool.",
     "homepage": "https://www.xmedia-recode.de/en/",
     "license": "Unknown",
     "architecture": {
         "64bit": {
-            "url": "https://www.xmedia-recode.de/download/XMediaRecode3590_x64_setup.exe",
-            "hash": "d8de5249a58ecd747786109b04e761c7ccc305b38ad47504392d9e109fd5eef4"
+            "url": "https://www.xmedia-recode.de/download/XMediaRecode3608_x64_setup.exe",
+            "hash": "e257bb9b2102aea22532c0f0cf54ef9887cbc1f5b7631376955556a2a497c3b7"
         },
         "32bit": {
-            "url": "https://www.xmedia-recode.de/download/XMediaRecode3590_setup.exe",
-            "hash": "811c5d9d4e7237e666b0bd58ac855717419b4c32ff3f80eb7280dc8e2f956372"
+            "url": "https://www.xmedia-recode.de/download/XMediaRecode3608_setup.exe",
+            "hash": "76f5c5b0eeef89e06a1d1e04db54991d69e6f26ab33d3d36ec5a9b2e3451bff1"
         }
     },
     "innosetup": true,
